@@ -1,6 +1,7 @@
 # neatgifs2
 
 A new Flutter project.
+Check out flutter installation guide [here](https://docs.flutter.dev/get-started/install/macos)
 
 ## Getting Started
 
